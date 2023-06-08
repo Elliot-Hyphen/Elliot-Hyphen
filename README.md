@@ -8,7 +8,7 @@
 
 
 
-### Welcome to my Github Page! &nbsp; ![]
+### Welcome to my Github Page! &nbsp; 
 
 I currently work in Business Intelligence, but I am also self-taught / teaching Offensive Cyber Security. This has been an on-going hobby for the last 6 years.
 
