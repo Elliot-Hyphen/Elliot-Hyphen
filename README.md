@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img width="300" height="250" src="https://avatars.githubusercontent.com/u/67664600?s=200&v=4">
+</p>
+
+
 ## Hey 👋, I'm Elliot!
 
 
