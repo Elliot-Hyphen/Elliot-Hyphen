@@ -39,7 +39,8 @@ I started Cyber Security **6 Years** ago.
 
 - 🛠 &nbsp; I’m currently learning with JavaScript, XSS, Active Directory Enumeration.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Elliot-Hyphen).
-- 💬 &nbsp; Ask me about anything on Discord Babayka #9261
+- 💬 &nbsp; Ask me about anything on Discord Elli0t #0001
+
 - 👾 &nbsp; Fun fact: If it works, don't change it.
 
 ### My Absolute Favorites:
